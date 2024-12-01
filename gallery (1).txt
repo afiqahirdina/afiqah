@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Gallery</title>
+    </head>
+    <style>
+        <body>
+        {
+            background-image: url(;)
+        }   
+        </style>
+        <body>
+        <h1 align="center">toyota gt86</h1>
+
+        <hr size="5" color="pink" width="90%"
+
+        <div align="center">
+        <img src="images/gt1502c_18.jpg" 
+        height="200" border="5" alt="toyota gt86" 
+        hspace="10" vspace="10">
+        <img src="images/download.jpg" 
+        height="200" border="5" alt="toyota gt86" 
+        hspace="10" vspace="10">
+        <img src="images/download (1).jpg"
+        height="200" border="5" alt="toyota gt86"
+        hspace="10" vspace="10">
+
+    </div>
+
+    <h2>introduction</h2>
+
+    <h5 style="text-align: justify;"
+    <img src="images/gt1502c_18.jpg"
+    style="float: left;" hspace="30"
+    height="200" border="3"
+    
+
+    The Toyota 86 and the Subaru BRZ are 2+2 sports cars jointly developed by Toyota and Subaru, 
+    manufactured at Subaru's Gunma assembly plant.
+    The 2+2 fastback coupé has a naturally aspirated boxer engine, front-engined, rear-wheel-drive configuration, 53/47 front/rear weight balance and low centre of gravity; 
+    it was inspired by Toyota's earlier AE86, a small, light, front-engine/rear-drive Corolla variant widely popular 
+    for Showroom Stock, Group A, Group N, Rally, Club and drift racing.
+    For the first-generation model, Toyota marketed the sports car as the 86 
+    in Asia, Australia, North America (from August 2016), South Africa, and South America
+    The second-generation model is marketed by Toyota as the GR86 as part of the Gazoo Racing family.>
+    </h5>
+
+    <br clear="all">
+
+    <h2 align="right">pre launch concept cars</h2>
+
+    <h5 style="text-align: justify;">
+    <img src="download.jpg"
+    style="float: right;" hspace="30"
+    height="200" border="3">
+    Initial layout and design elements for the 86 were 
+    </h5>
+
