@@ -1,0 +1,222 @@
+<html>
+    <head>
+        <title>Listing Exercise</title>
+    </head>
+
+    <body>
+        <h1>Types of listing tags & attributes</h1>
+
+        <p>
+            <h2>Unordered list</h2>
+
+            <ul>
+                <li>First text</li>
+                <li>Second text</li>
+                <li>Third text</li>
+            </ul>
+            </p>
+        <p>
+
+            <ul type="circle">
+                <li>First text</li>
+                <li>Second text</li>
+                <li>Third text</li>
+            </ul>
+            </p>
+        <p>
+
+            <ul type="square">
+                <li>First text</li>
+                <li>Second text</li>
+                <li>Third text</li>
+            </ul>
+            </p>
+        <p>
+
+            <!--Mix types of list-->
+
+            <ul>
+                <li type="disc">First text</li>
+                <li type="circle">Second text</li>
+                <li type="square">Third text</li>
+            </ul>
+
+        </p>
+
+        <p>
+            <h2>Ordered list</h2>
+
+            <ol>
+                <li>Thailand</li>
+                <li>Vietnam</li>
+                <li>Sepanyol</li>
+                <li>Italy</li>
+                <li>Indonesia</li>
+                <li>Maldives</li>
+            </li>
+            </ol>
+
+            <ol type="A">
+            <li>Thailand</li>
+                <li>Vietnam</li>
+                <li>Sepanyol</li>
+                <li>Italy</li>
+                <li>Indonesia</li>
+                <li>Maldives</li>
+                </li>
+            </ol>
+
+                <ol type="a">
+                <li>Thailand</li>
+                <li>Vietnam</li>
+                <li>Sepanyol</li>
+                <li>Italy</li>
+                <li>Indonesia</li>
+                <li>Maldives</li>
+                </li>
+            </ol>
+
+                <ol type="i">
+                <li>Thailand</li>
+                <li>Vietnam</li>
+                <li>Sepanyol</li>
+                <li>Italy</li>
+                <li>Indonesia</li>
+                <li>Maldives</li>
+                </li>
+            </ol>
+
+                <ol type="I">
+                <li>Thailand</li>
+                <li>Vietnam</li>
+                <li>Sepanyol</li>
+                <li>Italy</li>
+                <li>Indonesia</li>
+                <li>Maldives</li>
+                </li>
+            </ol>
+
+            <ol>
+                <li type="1">Thailand</li>
+                <li type="A">Vietnam</li>
+                <li type="a">Sepanyol</li>
+                <li type="I">Italy</li>
+                <li type="i">Indonesia</li>
+                <li>Maldives</li>
+            </li>
+            </ol>
+        </p>
+
+        <h2>Changing value for ordered list</h2>
+
+        <ol type="1" start="4">
+        <li>HTML</li>
+        <li>VB.NET</li>
+        <li>PHP</li>
+
+        <ol type="i">
+            <li value="4">HTML</li>
+            <li value="7">VB.NET</li>
+            <li value="10">PHP</li>
+            </ol>
+        <p>
+            <h2>Unordered listing - custom markers</h2>
+
+            <ul>
+                <li style="list-style-image: url(images/blue_bullet.png);">
+                FIrst line</li>
+                <li style="list-style-image: url(images/blue_bullet.png);">
+                Second line</li>
+            </ul>
+            </p>
+            
+            <p>
+                <h2>Controlling markers and hang indentation</h2>
+
+                <h3>List style: inside</h3>
+
+                <li style="list-style-position: inside;">
+                Bangsar is a residential suburb on the outskirts of Kuala Lumpur, lying about 4 kilometres (2.5 mi) south-west of the city centre. 
+            </li>
+
+            <li style="list-style-position: inside;">
+                It is part of the Lembah Pantai parliamentary constituency. 
+            </li>
+
+            <li style="list-style-position: inside;">
+                Bangsar is administered by Dewan Bandaraya Kuala Lumpur (DBKL), unlike other townships in the Klang Valley such as Petaling Jaya and Subang Jaya which have their municipal councils. 
+            </li>
+
+            <li style="list-style-position: inside;">
+                Neighbourhood residents' associations and business councils play a part in communicating with the local authority, but they exercise no legal or administrative power. 
+            </li>
+
+            <li style="list-style-position: inside;">
+                Malays make up most of the population at 61%, followed by the Chinese at 24%, Indians at 15%.
+            </li>
+
+            <h3>List style: outside</h3>
+            <ul>
+
+            <li style="list-style-position: outside;">
+                Bangsar is a residential suburb on the outskirts of Kuala Lumpur, lying about 4 kilometres (2.5 mi) south-west of the city centre. 
+            </li>
+
+            <li style="list-style-position: outside;">
+                It is part of the Lembah Pantai parliamentary constituency. 
+            </li>
+
+            <li style="list-style-position: outside;">
+                Bangsar is administered by Dewan Bandaraya Kuala Lumpur (DBKL), unlike other townships in the Klang Valley such as Petaling Jaya and Subang Jaya which have their municipal councils. 
+            </li>
+
+            <li style="list-style-position: outside;">
+                Neighbourhood residents' associations and business councils play a part in communicating with the local authority, but they exercise no legal or administrative power. 
+            </li>
+
+            <li style="list-style-position: outside;">
+                Malays make up most of the population at 61%, followed by the Chinese at 24%, Indians at 15%.
+            </li>
+            </ul>
+            </p>
+
+            <p>
+
+            <h2>Definition List</h2>
+            <h3>Markup language</h3>
+
+            <dl>
+                <dt>SGML</dt>
+                <dd>The Standard Generalize Markup language</dd>
+                <dt>HTML</dt>
+                <dd>The Hypertext Markup Language</dd>
+                <dt>XML</dt>
+                <dd>The Extensible Markup Language</dd>
+            </dl>
+
+            <h2>Nested List</h2>
+            <ul>
+            <li>HTML</li>
+            <ol>
+            <li>Meta tags</li>
+            <li>Anchor</li>
+            </ol>
+            <li>ASP</li>
+            <ul>
+            <li>Arithmetic operators</li>
+            <li>Relational operators</li>
+            </ul>
+
+            <ul>
+            Javascript
+            </ul>
+
+            </ul>
+            </body>
+            </html>
+
+
+
+
+
+
