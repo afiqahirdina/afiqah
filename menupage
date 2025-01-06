@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>Menu page</title>
+    </head>
+    <link rel="stylesheet" href="style.css">
+    <body>
+        <table style="text-align: center;">
+            <tr>
+                <td>
+                    <a href="welcomepage.html"
+                    target="main">Home</a>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <a href="dream_car.html"
+                target="main">Car</a>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <a href="list.html"
+                    target="main">List</a>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <a href="media.html"
+                    target="main">Media</a>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <a href="table.html"
+                    target="main">Table</a>
+                </td>
+            </tr>
+
+        </table>
+
+    </body>
+</html>
