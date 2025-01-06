@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Media</title>
+    </head>
+<body>
+    <h1>Media Exercise</h1>
+
+<br>
+<a href="biodata.html" target="_blank">Biodata</a>
+<a href="dream_car.html" target="_blank">Dream car</a>
+<a href="email.html" target="_blank">Email</a>
+<a href="link.html" target="_blank">Link</a>
+<a href="list.html" target="_blank">List</a>
+<a href="media.html" target="_blank">Media</a> 
+<a href="tab_index" target="_blank">Tab index</a>
+   <audio controls>
+    <source src="audio/traveler.mp3" type="audio/ogg">
+    <source src="audio/traveler.mp3" type="audio/mpeg">
+    Your browser does not support the audio element
+   </audio>
+
+    <video controls>
+        <source src="video/cat_dancing.mp4" type="video/mp4">
+        <source src="audio/traveler.mp3" type="audio/ogg">
+        Your browser does not support the audio element
+    </video>   
+   </html>
+
+   <iframe width="420" 
+   src="https://www.youtube.com/v=pZ1NdE69VTs&pp=ygUUcm9zZSBudW1iZXIgb25lIGdpcmw%3D">
+</iframe>
+   
