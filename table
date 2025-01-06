@@ -1,0 +1,68 @@
+<html>
+<head>
+    <title<Table</title>
+</head>
+<style>
+table, th, td
+{
+    border: 1px solid black;
+border 
+border-collapse: collapse;
+td
+{
+    text-align: center;
+    background-color: deeppink;
+}
+th, td
+{
+}
+    </style>
+
+    <h1 align>Types of tables</h1>
+
+    <table style="width: 70%" align="center">
+    <caption>Table 1: This is simple table</caption>
+
+
+    <table>
+        <tr>
+
+        <td>Name</td>
+        <td>Student id</td>
+        <td>Group</td>
+        </tr>
+        <tr>
+        <td>Nur Afiqah Irdina</td>
+        <td>2022665252</td>
+        <td>N5CDIM1105A</td>
+        </tr>
+        <td>afiqahirdina</td>
+        <td>2022445555</td>
+        <td>N5CDIM1105A</td>
+    </table>
+
+    <table style="width: 100%;" align="center">
+        <tr>
+        </table>
+            <th>Name</th>
+            <th colspan="2">Favourite</th>
+        </tr>
+        <tr>
+            <td>Afiqah Irdina</td>
+            <td>Records Management</td>
+            <td>Archive Management</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td rowspan="2" Email</td>
+            <td>2022665252@student.uitm.edu.my</td>
+            <th colspan="2">Email</th>
+            </tr>
+            <tr>
+            <td>0afiqahirdina@gmail.com</td>
+            </tr>
+
+            
+    </table>
