@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>welcomepage</title>
+    </head>
+    <body>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+<div align="center">
+    <img src="images/car.gif">
+</div>
+
+<table style="text-align: center;"
+width="100%">
+<tr>
+    <td>
+        <p>
+            <font size="50"
+            face="impact" align="center">WELCOME</font>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+            <font size="50"
+            face="impact" align="center">TO</font>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+            <font size="50"
+            face="impact" align="center">MY WEBSITE</font>
+            </p>
+            </td>
+            </tr>
+            </table>
+
+            </body>
+            </html>
